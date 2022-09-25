@@ -9,7 +9,7 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolforcampos&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>
   
   
-   ![Snake animation](https://github.com/rodolforcampos/RODOLFO-CAMPOS/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/rodolforcampos/rodolfo-campos/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 

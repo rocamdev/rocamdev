@@ -12,7 +12,7 @@
    ![Snake animation](https://github.com/rodolforcampos/rodolfo-campos/blob/output/github-contribution-grid-snake.svg)
   
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rodolforcampos&theme=dracula&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rodolforcampos&theme=tokyonight&hide_border=true&background=0D1117&sideNums=D0C5EF&sideLabels=FBC7D4&dates=89829D)](https://git.io/streak-stats)
   
   
 </div>

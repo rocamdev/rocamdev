@@ -11,6 +11,10 @@
   
    ![Snake animation](https://github.com/rodolforcampos/rodolfo-campos/blob/output/github-contribution-grid-snake.svg)
   
+  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolforcampos&" alt="rodolforcampos" /></p>
+  
+  
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -43,4 +47,3 @@
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rodolforcampos&show_icons=true&locale=en" alt="rodolforcampos" /></p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rodolforcampos&" alt="rodolforcampos" /></p>

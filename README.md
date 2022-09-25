@@ -4,6 +4,12 @@
 <h1 align="center">Hi 👋, I'm Rodolfo Campos</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rodolforcampos&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodolforcampos&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>
+  
+</div>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rodolforcampos&label=Profile%20views&color=0e75b6&style=flat" alt="rodolforcampos" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodolforcampos" alt="rodolforcampos" /></a> </p>

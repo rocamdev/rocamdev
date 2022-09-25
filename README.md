@@ -1,4 +1,6 @@
 # RODOLFO-CAMPOS
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:9796f0,100:fbc7d4&height=210&section=header&text=Gabriela%20Souza&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
+
 <h1 align="center">Hi 👋, I'm Rodolfo Campos</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 

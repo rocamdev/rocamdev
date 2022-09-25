@@ -36,9 +36,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/rodolforcampos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodolforcampos" height="30" width="40" /></a>
-<a href="https://instagram.com/rodolfocampos.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodolfocampos.dev" height="30" width="40" /></a>
-<a href="https://www.behance.net/https://rodolforibeiroca05ed.myportfolio.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://rodolforibeiroca05ed.myportfolio.com/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/rodolforcampos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rodolfo Campos's Linkedin" height="30" width="40" /></a>
+<a href="https://instagram.com/rodolfocampos.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rodolfo Campos's Instagram" height="30" width="40" /></a>
+<a href="https://rodolforibeiroca05ed.myportfolio.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Rodolfo Campos's Behance portfolio" height="30" width="40" /></a>
 </p>
 
 

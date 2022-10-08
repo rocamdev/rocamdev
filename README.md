@@ -2,7 +2,7 @@
 
 ![Profile Views](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=rocamdev&repo=rocamdev&countColorcountColor)
 
-<h1 align="center">Hi 👋, I'm <a target="_blank" href="https://linkedin.com/in/rodolforcampos">Rodolfo!</a></h1>
+<h1 align="center">Hi 👋, I'm <a target="_blank" href="https://www.linkedin.com/in/rocamdev/">Rodolfo!</a></h1>
 <h3 align="center">A passionate frontend developer from Brazil 🇧🇷.</h3>
 
 <div align="center">
@@ -13,7 +13,7 @@
    ![Snake animation](https://github.com/rocamdev/rodolfo-campos/blob/output/github-contribution-grid-snake.svg)
   
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rocamdev&theme=tokyonight&hide_border=true&background=0D1117&sideNums=D0C5EF&sideLabels=FBC7D4&dates=89829D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rocamdev&theme=tokyonight&hide_border=true&background=0D1117&sideNums=D0C5EF&sideLabels=FBC7D4&dates=89829D)](https://linkedin.com/in/rodolforcampos)
   
   
 </div>
@@ -40,7 +40,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a target="_blank" href="https://linkedin.com/in/rodolforcampos"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rodolfo Campos's Linkedin" height="30" width="40" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/rocamdev/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rodolfo Campos's Linkedin" height="30" width="40" /></a>
 <a href="https://instagram.com/rodolfocampos.dev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rodolfo Campos's Instagram" height="30" width="40" /></a>
 <a href="https://rodolforibeiroca05ed.myportfolio.com" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Rodolfo Campos's Behance portfolio" height="30" width="40" /></a>
 </p>

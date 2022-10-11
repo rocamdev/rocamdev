@@ -34,7 +34,7 @@
 
 - 🌱 I’m currently learning **CSS Grid Layout, CSS with SASS, JavaScript**
 
-- 💬 Ask me about **CSS, HTML, JAVASCRIPT**
+- 💬 Ask me about **CSS, HTML**
 
 - 📫 How to reach me **contato@rodolfocampos.com**
 

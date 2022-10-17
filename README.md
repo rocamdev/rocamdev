@@ -33,7 +33,7 @@
 
 - 🔭 I’m currently working on [my porfólio](https://rodolforcampos.github.io/portfolio-2/)
 
-- 🌱 I’m currently learning **CSS Grid Layout, CSS with SASS, CSS Flexbox and JavaScript**
+- 🌱 I’m currently learning **CSS Grid Layout, CSS Flexbox and JavaScript**
 
 - 💬 Ask me about **CSS, HTML or JAVASCRIPT**
 

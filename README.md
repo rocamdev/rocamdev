@@ -14,7 +14,7 @@
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=rocamdev&theme=nightowl&hide_border=true&border_radius=0&locale=pt-br&background=090D13)](https://git.io/streak-stats)
   
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rocamdev&theme=tokyonight&hide_border=true&background=0D1117&sideNums=D0C5EF&sideLabels=FBC7D4&dates=89829D)](https://linkedin.com/in/rodolforcampos) -->
+
   
   
 </div>
